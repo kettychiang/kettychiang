@@ -1,7 +1,7 @@
 - 👋 G'day, I’m Ketty and nice meeting you here!
-- 👀 I want to make a career change to become a Web & Blockchain Developer
-- 🌱 I’m currently working on HTML/CSS/JavaScript/Git/React
-- 💞️ I like salsa & bachata dancing, listen to funk & soul & latin music, am a coffee drinker and am in love with coding!
+- 👀 I am a junior solidity/blockchain developer building and shipping at nights & weekends.
+- 🌱 I’m currently working on JavaScript/Solidity/Python and exploring machine learning.
+- 💞️ I am a coffee drinker but would start my day with a cup of milk tea.
 - 📫 You will find me somewhere in the community:)
 
 <!---
